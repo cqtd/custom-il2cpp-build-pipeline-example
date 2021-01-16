@@ -1,0 +1,18 @@
+{
+    "name": "FPS.Micro.Editor",
+    "rootNamespace": "FPS.Micro.Editor",
+    "references": [
+        "GUID:88c0475476c3b7943a3ab9a14c19f523"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
